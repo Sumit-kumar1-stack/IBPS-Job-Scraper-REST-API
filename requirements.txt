@@ -6,3 +6,4 @@ pandas
 schedule
 certifi
 python-certifi-win32
+dj-database-url>=2.2
